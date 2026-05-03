@@ -1,0 +1,24 @@
+body {
+    font-family: "Times New Roman", sans-serif;
+    text-align: center;
+    font-size: 36px;
+}
+
+ul {
+    list-style: none;
+    padding: 8px;
+}
+
+a {
+    color: rgb(55, 55, 184);
+}
+
+li {
+    padding: 8px
+}
+
+h1 {
+    font-size: 100px;
+    padding: 8px;
+    margin-bottom: 36px;
+}
